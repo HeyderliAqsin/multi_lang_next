@@ -1,0 +1,6 @@
+{
+    "greeting":"Hello",
+    "shoppingcart":"You have {{number}} items in your shopping cart ",
+    "language-name-en":"English",
+    "language-name-az":"Azerbaycanca"
+}

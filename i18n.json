@@ -1,0 +1,9 @@
+{
+    "locales": ["en", "az"],
+    "defaultLocale": "az",
+    "pages": {
+      "*": ["common"],
+      "/about":["about"]
+    },
+    "localeDetection":false
+  }
